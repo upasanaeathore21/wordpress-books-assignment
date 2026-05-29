@@ -1,9 +1,4 @@
 <?php
-/**
- * Plugin Name: Books Manager
- * Description: WordPress Developer Assignment
- * Version: 1.0
- */
 
 if (!defined('ABSPATH')) {
     exit;
